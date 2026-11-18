@@ -53,7 +53,30 @@ nav:
   - Projects: projects/index.md
   - Capstone: capstone/index.md
   - Assessments: assessments/index.md
-  - Resources: resources/index.md
+  - Resources:
+      - Overview: resources/index.md
+      - Computer Science Fundamentals: resources/computer-science-fundamentals.md
+      - Python: resources/python.md
+      - Algorithms & Data Structures: resources/algorithms-data-structures.md
+      - Linux & Shell Scripting: resources/linux-shell-scripting.md
+      - Git & GitHub: resources/git-github.md
+      - HTML & CSS: resources/html-css.md
+      - JavaScript: resources/javascript.md
+      - TypeScript: resources/typescript.md
+      - React: resources/react.md
+      - HTTP & Networking: resources/http-networking.md
+      - REST APIs: resources/rest-apis.md
+      - SQL & PostgreSQL: resources/sql-postgresql.md
+      - FastAPI: resources/fastapi.md
+      - Software Architecture: resources/software-architecture.md
+      - System Design: resources/system-design.md
+      - Testing & Debugging: resources/testing-debugging.md
+      - Docker: resources/docker.md
+      - CI/CD: resources/ci-cd.md
+      - GitHub Actions: resources/github-actions.md
+      - Application Security: resources/application-security.md
+      - Cloud Deployment: resources/cloud-deployment.md
+      - Data Science & ML: resources/data-science-ml.md
   - Glossary: glossary/index.md
   - Engineering Handbook: engineering-handbook/index.md
   - Collaboration: collaboration/index.md
