@@ -1,0 +1,82 @@
+site_name: Software Engineering Academy
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - Programme Overview: programme-overview.md
+  - Syllabus:
+      - Overview: syllabus/index.md
+      - Phase 01: syllabus/phase-01/index.md
+      - Phase 02: syllabus/phase-02/index.md
+      - Phase 03: syllabus/phase-03/index.md
+      - Phase 04: syllabus/phase-04/index.md
+      - Phase 05: syllabus/phase-05/index.md
+      - Phase 06: syllabus/phase-06/index.md
+  - Foundations: foundations/index.md
+  - Frontend: frontend/index.md
+  - Backend: backend/index.md
+  - Databases: databases/index.md
+  - Architecture: architecture/index.md
+  - System Design: system-design/index.md
+  - DevOps: devops/index.md
+  - Security: security/index.md
+  - Testing: testing/index.md
+  - Projects: projects/index.md
+  - Capstone: capstone/index.md
+  - Assessments: assessments/index.md
+  - Resources: resources/index.md
+  - Glossary: glossary/index.md
+  - Engineering Handbook: engineering-handbook/index.md
+  - Collaboration: collaboration/index.md
+theme:
+  name: material
+  language: en
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.highlight
+    - search.share
+    - toc.integrate
+    - content.code.annotate
+    - content.code.copy
+    - content.tabs.link
+    - content.tooltips
+    - announce.dismiss
+    - header.autohide
+    - navigation.expand
+    - navigation.sections
+    - navigation.instant
+    - navigation.tracking
+    - navigation.prune
+    - navigation.path
+    - content.footnote
+    - content.tables
+  icon:
+    logo: material/library
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - meta
+  - tables
+  - toc:
+      permalink: true
+plugins:
+  - search:
+      lang: en
+  - mermaid2:
+      arguments:
+        - --theme
+        - default
