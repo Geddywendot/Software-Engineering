@@ -82,6 +82,7 @@ nav:
   - Glossary: glossary/index.md
   - Engineering Handbook: engineering-handbook/index.md
   - Collaboration: collaboration/index.md
+  - Assessment & Collaboration: assessment-collaboration/index.md
 theme:
   name: material
   language: en
