@@ -10,7 +10,7 @@ Welcome to the **Software Engineering Academy** – a comprehensive 24‑week, p
 
 ---
 ## Quick Dashboard
-<div class="quick-dashboard">
+
 | Item | Details |
 |------|---------|
 | **Current Phase** | Phase 1 – Computer Science & Programming Foundations |
@@ -21,8 +21,7 @@ Welcome to the **Software Engineering Academy** – a comprehensive 24‑week, p
 | **Upcoming Assignment** | Git commit‑tree exercise – due end of Week 1 |
 | **Resources** | [Resource Library](resources/index.md) |
 | **Projects** | [Project 1 – Personal Finance CLI](project-library/project-1-spec.md) |
-| **GitHub** | <https://github.com/Geddywendot/Software-Engineering> |
-</div>
+| **GitHub** | [Geddywendot/Software-Engineering](https://github.com/Geddywendot/Software-Engineering) |
 
 ---
 ## Quicklinks
