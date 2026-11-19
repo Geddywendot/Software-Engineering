@@ -1,10 +1,10 @@
 site_name: Software Engineering Academy
+site_url: https://geddywendot.github.io/Software-Engineering/
 nav:
   - Home: index.md
   - Getting Started: getting-started.md
   - Programme Overview: programme-overview.md
   - Syllabus:
-      - Overview: syllabus/index.md
       - Phase 01:
           - Overview: syllabus/phase-01/index.md
           - Week 01: syllabus/phase-01/week-01.md
@@ -12,19 +12,16 @@ nav:
           - Week 03: syllabus/phase-01/week-03.md
           - Week 04: syllabus/phase-01/week-04.md
       - Phase 02:
-          - Overview: syllabus/phase-02/index.md
           - Week 05: syllabus/phase-02/week-05.md
           - Week 06: syllabus/phase-02/week-06.md
           - Week 07: syllabus/phase-02/week-07.md
           - Week 08: syllabus/phase-02/week-08.md
       - Phase 03:
-          - Overview: syllabus/phase-03/index.md
           - Week 09: syllabus/phase-03/week-09.md
           - Week 10: syllabus/phase-03/week-10.md
           - Week 11: syllabus/phase-03/week-11.md
-          - Week 12: syllabus/phase-03/week-12.md
       - Phase 04:
-          - Overview: syllabus/phase-04/index.md
+          - Week 12: syllabus/phase-04/week-12.md
           - Week 13: syllabus/phase-04/week-13.md
           - Week 14: syllabus/phase-04/week-14.md
           - Week 15: syllabus/phase-04/week-15.md
@@ -42,24 +39,12 @@ nav:
           - Week 23: syllabus/phase-06/week-23.md
           - Week 24: syllabus/phase-06/week-24.md
   - Foundations: foundations/index.md
-  - Frontend: frontend/index.md
-  - Backend: backend/index.md
-  - Databases: databases/index.md
-  - Architecture: architecture/index.md
-  - System Design: system-design/index.md
-  - DevOps: devops/index.md
-  - Security: security/index.md
-  - Testing: testing/index.md
-  - Projects: projects/index.md
-  - Capstone: capstone/index.md
-  - Assessments: assessments/index.md
   - Resources:
       - Overview: resources/index.md
       - Computer Science Fundamentals: resources/computer-science-fundamentals.md
       - Python: resources/python.md
       - Algorithms & Data Structures: resources/algorithms-data-structures.md
       - Linux & Shell Scripting: resources/linux-shell-scripting.md
-      - Git & GitHub: resources/git-github.md
       - HTML & CSS: resources/html-css.md
       - JavaScript: resources/javascript.md
       - TypeScript: resources/typescript.md
@@ -75,14 +60,25 @@ nav:
       - CI/CD: resources/ci-cd.md
       - GitHub Actions: resources/github-actions.md
       - Application Security: resources/application-security.md
-      - Cloud Deployment: resources/cloud-deployment.md
-        - Project Library:
-            - Overview: project-library/index.md
-      - Data Science & ML: resources/data-science-ml.md
-  - Glossary: glossary/index.md
-  - Engineering Handbook: engineering-handbook/index.md
-  - Collaboration: collaboration/index.md
-  - Assessment & Collaboration: assessment-collaboration/index.md
+  - Project Library:
+      - Overview: project-library/index.md
+      - Challenges: project-library/challenges.md
+      - Project 1: project-library/project-1-spec.md
+      - Project 2: project-library/project-2-spec.md
+      - Project 3: project-library/project-3-spec.md
+      - Project 4: project-library/project-4-spec.md
+      - Project 5: project-library/project-5-spec.md
+      - Capstone: project-library/capstone-spec.md
+  - Assessment & Collaboration:
+      - Overview: assessment-collaboration/index.md
+      - Learner Structure: assessment-collaboration/learner-structure.md
+      - Collaboration System: assessment-collaboration/collaboration-system.md
+      - Weekly Schedule: assessment-collaboration/schedule.md
+      - Meeting Template: assessment-collaboration/meeting-template.md
+      - Assessment Framework: assessment-collaboration/assessment-framework.md
+      - Phase Gates: assessment-collaboration/phase-gates.md
+      - Journal Template: assessment-collaboration/journal-template.md
+      - GitHub Workflow: assessment-collaboration/github-workflow.md
 theme:
   name: material
   language: en
@@ -134,5 +130,4 @@ plugins:
       lang: en
   - mermaid2:
       arguments:
-        - --theme
-        - default
+        theme: default
