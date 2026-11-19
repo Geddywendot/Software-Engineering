@@ -17,7 +17,7 @@ Welcome to the **Software Engineering Academy** – a comprehensive 24‑week, p
 | **Current Week** | Week 1 – Git Mechanics & The Unix Philosophy |
 | **Programme Duration** | 24 weeks (≈ 18 h/week) |
 | **Objectives** | Develop solid CS fundamentals, full‑stack expertise, and professional engineering practices |
-| **Weekly Schedule** | Monday‑Sunday – see the [Weekly Schedule](schedule.md) |
+| **Weekly Schedule** | Monday‑Sunday – see the [Weekly Schedule](assessment-collaboration/schedule.md) |
 | **Upcoming Assignment** | Git commit‑tree exercise – due end of Week 1 |
 | **Resources** | [Resource Library](resources/index.md) |
 | **Projects** | [Project 1 – Personal Finance CLI](project-library/project-1-spec.md) |
@@ -33,11 +33,11 @@ Welcome to the **Software Engineering Academy** – a comprehensive 24‑week, p
 - **GitHub Projects:** <https://github.com/Geddywendot/Software-Engineering/projects>
 - **Open Issues:** <https://github.com/Geddywendot/Software-Engineering/issues>
 - **Pull Requests:** <https://github.com/Geddywendot/Software-Engineering/pulls>
-- **Engineering Handbook:** [Handbook](engineering-handbook/index.md)
+- **Foundations:** [Foundations](foundations/index.md)
 - **Resource Library:** [Resources](resources/index.md)
 - **Project Specifications:** [Project Library](project-library/index.md)
 - **Assessment Pages:** [Assessment & Collaboration](assessment-collaboration/index.md)
-- **Capstone:** [Capstone Overview](capstone/index.md)
+- **Capstone:** [Capstone Specification](project-library/capstone-spec.md)
 - **Official Docs:** [MkDocs](https://www.mkdocs.org/), [GitHub Pages](https://pages.github.com/)
 
 ---
@@ -56,7 +56,7 @@ Welcome to the **Software Engineering Academy** – a comprehensive 24‑week, p
    mkdocs serve
    ```
    Open <http://127.0.0.1:8000> in your browser.
-4. **Contribute** – see the [Contribution Guide](CONTRIBUTING.md).
+4. **Contribute** – see the [Contribution Guide](https://github.com/Geddywendot/Software-Engineering/blob/main/.github/CONTRIBUTING.md).
 
 ---
 ## Accessibility & Themes
