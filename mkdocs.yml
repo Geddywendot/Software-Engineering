@@ -76,6 +76,8 @@ nav:
       - GitHub Actions: resources/github-actions.md
       - Application Security: resources/application-security.md
       - Cloud Deployment: resources/cloud-deployment.md
+        - Project Library:
+            - Overview: project-library/index.md
       - Data Science & ML: resources/data-science-ml.md
   - Glossary: glossary/index.md
   - Engineering Handbook: engineering-handbook/index.md
